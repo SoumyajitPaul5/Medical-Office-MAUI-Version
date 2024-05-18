@@ -1,0 +1,545 @@
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.runtimeconfig.json
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.pdb
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Formatting.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.Bson.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.AppContext.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Buffers.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Configuration.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Console.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Core.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Memory.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Windows.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\WindowsBase.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\mscorlib.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\netstandard.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt.dat
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt_CJK.dat
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt_EFIGS.dat
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt_no_CJK.dat
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libicudata.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libicui18n.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\add.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plus.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\refresh.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.csproj.AssemblyReference.cache
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.AssemblyInfoInputs.cache
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.AssemblyInfo.cs
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.csproj.CoreCompileInputs.cache
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\XamlC.stamp
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.csproj.CopyComplete
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\refint\Medical Office MAUI.dll
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.pdb
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.genruntimeconfig.cache
+D:\NewWork\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\ref\Medical Office MAUI.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.runtimeconfig.json
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.pdb
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Formatting.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.Bson.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.AppContext.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Buffers.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Configuration.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Console.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Core.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.Common.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Tar.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Memory.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Mail.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Ping.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Quic.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Requests.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Security.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Sockets.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebClient.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ObjectModel.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Uri.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Reader.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Writer.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Claims.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.SecureString.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceProcess.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Json.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Channels.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Thread.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Timer.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.Local.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.ValueTuple.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Windows.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Linq.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\WindowsBase.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\mscorlib.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\netstandard.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt.dat
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt_CJK.dat
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt_EFIGS.dat
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\icudt_no_CJK.dat
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libicudata.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libicui18n.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libextension-dotnet.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\add.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plus.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\refresh.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.csproj.AssemblyReference.cache
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.AssemblyInfoInputs.cache
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.AssemblyInfo.cs
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.csproj.CoreCompileInputs.cache
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\XamlC.stamp
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.csproj.CopyComplete
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\refint\Medical Office MAUI.dll
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.pdb
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\Medical Office MAUI.genruntimeconfig.cache
+D:\IT HELP\Mobile\Medical Office MAUI\Medical Office MAUI\obj\Debug\net7.0-ios\iossimulator-x64\ref\Medical Office MAUI.dll

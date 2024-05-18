@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:m="clr-namespace:Medical_Office_MAUI.Models"
+             x:Class="Medical_Office_MAUI.PatientDetailPage"
+             Title="Patient Details">
+    <ScrollView x:Name="ArtworkScrollView" Orientation="Vertical" VerticalOptions="FillAndExpand" >
+        <VerticalStackLayout HorizontalOptions="FillAndExpand" 
+                             BackgroundColor="#FFF" 
+                             Margin="20,5,20,5" 
+                             Padding="15,10,15,10">
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="First Name:" WidthRequest="120"  VerticalOptions="Center" />
+                <Entry x:Name="txtFirstName" Text="{Binding FirstName}" WidthRequest="200"  />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Middle Name:" WidthRequest="120"  VerticalOptions="Center" />
+                <Entry x:Name="txtMiddleName" Text="{Binding MiddleName}" WidthRequest="200"  />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Last Name:" WidthRequest="120"  VerticalOptions="Center" />
+                <Entry x:Name="txtLastName" Text="{Binding LastName}" WidthRequest="200"  />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="OHIP:" WidthRequest="120"  VerticalOptions="Center" />
+                <Entry x:Name="txtOHIP" Text="{Binding OHIP}" WidthRequest="200"  />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="DOB:" WidthRequest="120"   VerticalOptions="Center" />
+                <DatePicker  x:Name="dateDOB" Date="{Binding DOB}" WidthRequest="200" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Exp. Yearly Visits:" WidthRequest="120"   VerticalOptions="Center" />
+                <Entry x:Name="txtExpYrVisits" Text="{Binding ExpYrVisits}" WidthRequest="200" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Doctor:" WidthRequest="120"  VerticalOptions="Center" />
+                <Picker x:Name="ddlDoctors" WidthRequest="200"
+                            ItemDisplayBinding="{Binding FormalName}"  VerticalOptions="Center">
+                </Picker>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" >
+                <Button Text="Save" Clicked="SaveClicked" Margin="5,5,5,5" />
+                <Button Text="Cancel" Clicked="CancelClicked" Margin="5,5,5,5" />
+                <Button x:Name="btnDelete" Text="Delete" Clicked="DeleteClicked" Margin="5,5,5,5" />
+            </StackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentPage>

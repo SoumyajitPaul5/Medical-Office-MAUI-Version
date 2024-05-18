@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:m="clr-namespace:Medical_Office_MAUI.Models"
+             x:Class="Medical_Office_MAUI.MainPage"
+             Title="Patient List">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="btnAdd" Text="Add" 
+                     Clicked="btnAdd_Clicked" IconImageSource="add.png"  />
+        <ToolbarItem x:Name="btnRefresh"  Text="Refresh"
+                     Clicked="btnRefresh_Clicked"  IconImageSource="refresh.png"  />
+    </ContentPage.ToolbarItems>
+    <ScrollView>
+        <Grid RowDefinitions="Auto, *"
+              ColumnDefinitions="150, *"
+          Padding="10"
+          RowSpacing="10"
+          ColumnSpacing="10">
+            
+            <Label Text="Filter by Doctor" 
+                   Grid.Column="0"
+                   Margin="10"
+                   VerticalOptions="Center" />
+            <Picker x:Name="ddlDoctors"  Grid.Column="1" 
+                    VerticalOptions="Center"
+                    ItemsSource="{Binding Doctors}"
+                    ItemDisplayBinding="{Binding FormalName}" 
+                    SelectedIndexChanged="ddlDoctors_SelectedIndexChanged">
+            </Picker>
+            <ActivityIndicator x:Name="Loading" Grid.Row="1" Grid.ColumnSpan="2" 
+                    HeightRequest="100" WidthRequest="100" IsRunning="true" />
+            <ListView Grid.Row="1" Grid.ColumnSpan="2" Margin="15,0,10,0"
+                    ItemsSource="{Binding Patients}"
+                    SelectionMode="Single"
+                    ItemSelected="PatientSelected"
+                    x:Name="PatientList">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="{x:Type m:Patient}">
+                        <TextCell Text="{Binding Summary}" Detail="{Binding AgeDoctor}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
